@@ -1,0 +1,82 @@
+body {
+    font-family: georgia, serif;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+}
+
+#content {
+    margin: 30px;
+}
+
+#left {
+    position: relative;
+    float: left;
+    margin: 0px;
+}
+
+#right {
+    position: absolute;
+    float: right;
+    margin: 4px 0px 0px 225px;
+    padding-bottom: 30px;
+    width: 555px;
+}
+
+h3 {
+    font-family: 'Droid Serif', georgia, serif;
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0px 0px -10px 0px;
+}
+
+.orange {
+    background-color: #EB6841;
+    color: #ffffff;
+}
+
+.yellow {
+    background-color: #FFA200;
+    color: #ffffff;
+}
+
+.blue {
+    background-color: #00A0B0;
+    color: #ffffff;
+}
+
+.green {
+    background-color: #758849;
+    color: #ffffff;
+}
+
+.red {
+    background-color: #CC333F;
+    color: #ffffff;
+}
+
+#info a:link, #info a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#info a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    background-color: inherit;
+}
+
+a:link, a:visited {
+    color: #758849;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: square;
+    margin: 0px;
+    padding: 0px 0px 0px 16px;
+}
